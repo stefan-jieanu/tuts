@@ -1,0 +1,10 @@
+#app {
+  padding-left: 50px;
+  padding-right: 50px;
+  overflow: scroll;
+}
+
+.box {
+  width: 100vw;
+  background-color: red;
+}

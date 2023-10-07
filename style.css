@@ -1,10 +1,31 @@
+body {
+  margin: 0;
+}
+
 #app {
-  padding-left: 50px;
-  padding-right: 50px;
-  overflow: scroll;
+  
 }
 
 .box {
-  width: 100vw;
+  padding: 10px;
   background-color: red;
+  /* padding-left: 50px; */
+}
+
+.box p.second {
+  /* margin: 10px; */
+  /* margin-left: 50px; */
+  margin-top: 100px;
+  padding: 10px;
+  background-color: green;
+}
+
+.third {
+  padding: 10px;
+  border-radius: 25px;
+  background-color: yellow;
+
+  width: 60px;
+  margin: auto;
+
 }

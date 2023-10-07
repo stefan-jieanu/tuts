@@ -29,3 +29,10 @@ body {
   margin: auto;
 
 }
+
+.third::before {
+  content: "\2193";
+  margin-left: 10px;
+  background-color: gainsboro;
+  padding: 5px;
+}
